@@ -1,0 +1,11 @@
+# 2026-11-16 01:50 +03: ignore list per Boss spec, task int-clerk int-neon
+node_modules
+dist
+.env*
+.claude/
+CLAUDE.md
+docs/
+*.log
+.remember/
+napkin.md
+*.tsbuildinfo

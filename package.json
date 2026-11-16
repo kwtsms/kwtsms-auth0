@@ -1,0 +1,14 @@
+{
+  "name": "kwtsms-auth0",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Send Auth0 SMS (verification codes, MFA) through kwtSMS with a custom phone provider Action",
+  "license": "MIT",
+  "author": "kwtSMS (BoxLink Center)",
+  "scripts": {
+    "test": "node --test tests/action.test.js"
+  },
+  "devDependencies": {
+    "kwtsms": "0.6.0"
+  }
+}
