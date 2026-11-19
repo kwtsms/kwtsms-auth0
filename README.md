@@ -7,6 +7,8 @@
 
 Send your Auth0 SMS (sign-up and login verification codes, MFA codes, blocked account and password notices) through your own kwtSMS account and Sender ID. It is one Auth0 Action for the **custom phone provider**: paste it, add one dependency and your secrets, and Auth0 sends every SMS through kwtSMS.
 
+All kwtSMS integrations: [kwtsms.com/integrations](https://www.kwtsms.com/integrations/)
+
 ## About kwtSMS
 
 kwtSMS is a Kuwaiti SMS gateway trusted by top businesses to deliver messages anywhere in the world, with private Sender ID, free API testing, non-expiring credits, and competitive flat-rate pricing. Secure, simple to integrate, built to last. Open a free account in under 1 minute, no paperwork or payment required. [Click here to get started](https://www.kwtsms.com/cportal/signup/)
